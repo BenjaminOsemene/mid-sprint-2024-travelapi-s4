@@ -1,4 +1,4 @@
-TThis project is implementing a Spring Boot application that manages a travel-related database entities including cities, airports, aircraft,and passengers.
+This project is implementing a Spring Boot application that manages a travel-related database entities including cities, airports, aircraft,and passengers.
 
 The key features include implementing a CRUD operations for cities, airports, aircraft,passengers and
 managing relationship between entities as well as REST API endpoints for data access and manipulation.
